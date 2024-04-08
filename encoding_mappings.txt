@@ -1,0 +1,100 @@
+Column: City
+Houston: 0
+Memphis: 1
+New York: 2
+San Francisco: 3
+Seattle: 4
+
+Column: Gender
+Men: 0
+Women: 1
+
+Column: Marital Status
+Married: 0
+Never Married: 1
+
+Column: Age
+Children: 0
+Early Working: 1
+Elderly: 2
+Mature Working: 3
+Prime Working: 4
+
+Column: Education
+Middle: 0
+Primary: 1
+Secondary: 2
+Teritary: 3
+Uneducated: 4
+
+Column: Role
+Advertising and Promotion Executive: 0
+Computer and Information System Executive: 1
+Marketing and Sales Executive: 2
+Top Executives: 3
+Training and Development Executive: 4
+
+Column: Household Income
+Above US$ 30086: 0
+US$ 13676 to US$ 19145: 1
+US$ 19146 to US$ 24615: 2
+US$ 24616 to US$ 30085: 3
+US$ 2735: 4
+US$ 2736 to US$ 8205: 5
+US$ 8206 to US$ 13675: 6
+
+Column: Percentage of Investment
+11% to 15%: 0
+16% to 20%: 1
+21% to 25%: 2
+6% to 10%: 3
+Above 26%: 4
+Don't Want to Reveal: 5
+Upto 5%: 6
+
+Column: Source of Awareness about Investment
+Family: 0
+Flash Board: 1
+Friends: 2
+Magazine: 3
+Others: 4
+Television: 5
+Workers: 6
+
+Column: Investment Influencer
+Family Reference: 0
+Friends Reference: 1
+Institutions: 2
+Intermediaries: 3
+Others: 4
+Social Media: 5
+Workers Reference: 6
+
+Column: Investment Experience
+1 Year to 3 Years: 0
+4 Years to 6 Years: 1
+7 Years to 9 Years: 2
+Above 9 Years: 3
+Less Than 1 Year: 4
+
+Column: Risk Level
+High: 0
+Low: 1
+Medium: 2
+
+Column: Return Earned
+1 to 4: 0
+10 to 12 : 1
+5 to 6: 2
+7 to 9: 3
+More than 13: 4
+Negative Return: 5
+
+Column: Reason for Investment
+Fun and Exitement: 0
+Inflation: 1
+Others: 2
+Return: 3
+Status: 4
+Tax: 5
+
